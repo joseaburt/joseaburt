@@ -8,7 +8,7 @@ Hey there, I'm Jose Aburto, and I'm all about crafting awesome things on the web
   - Data Structure and algorithms
   - Functional Programming
   - Object-Oriented Programming
-  - Deep knowladge of Design Pattern
+  - Deep knowledge of Design Pattern
   - SOLID
   - Domain-Driven Design
   - Microservice Patterns
@@ -39,13 +39,13 @@ Hey there, I'm Jose Aburto, and I'm all about crafting awesome things on the web
   - Spring Framework
   - Nest.js
   - Laravel
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="12" height="12"/> Express.js
+  - Express.js
   - Adonis.js
 
 - **Database & Tools**
   - Sql
   - MySql
-  - <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="12" height="12"/> Mongodb
+  - Mongodb
   - PostgreSQL
   - Redis
   - Java JPA
