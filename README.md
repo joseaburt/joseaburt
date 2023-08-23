@@ -45,7 +45,7 @@ Hey there, I'm Jose Aburto, and I'm all about crafting awesome things on the web
 - **Database & Tools**
   - Sql
   - MySql
-  - Mongodb
+  - <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="12" height="12"/> Mongodb
   - PostgreSQL
   - Redis
   - Java JPA
