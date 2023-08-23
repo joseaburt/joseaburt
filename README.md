@@ -8,6 +8,7 @@ Hey there, I'm Jose Aburto, and I'm all about crafting awesome things on the web
   - Data Structure and algorithms
   - Functional Programming
   - Object-Oriented Programming
+  - Object-Oriented Principles
   - Deep knowledge of Design Pattern
   - SOLID
   - Domain-Driven Design
