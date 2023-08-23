@@ -39,7 +39,7 @@ Hey there, I'm Jose Aburto, and I'm all about crafting awesome things on the web
   - Spring Framework
   - Nest.js
   - Laravel
-  - Express.js
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="12" height="12"/> Express.js
   - Adonis.js
 
 - **Database & Tools**
