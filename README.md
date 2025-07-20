@@ -1,55 +1,63 @@
-# Hi there!
+# 👋 Hi, I'm Jose Aburto
 
-Hey there, I'm Jose Aburto, and I'm all about crafting awesome things on the web! As a seasoned web software engineer, I've had the fantastic journey of bringing digital ideas to life through clean and efficient code.
+I'm a passionate **Web Software Engineer** with strong experience in building scalable, high-quality applications for the web and mobile. I specialize in crafting clean architectures, applying solid engineering principles, and turning ideas into impactful digital products.
 
-- **General**
+---
 
-  - Problem Solving
-  - Data Structure and algorithms
-  - Functional Programming
-  - Object-Oriented Programming
-  - Object-Oriented Principles
-  - Deep knowledge of Design Pattern
-  - SOLID
-  - Domain-Driven Design
-  - Microservice Patterns
+## 🧠 What I Bring to the Table
 
-- **Frontend**
+### 💼 **Core Competencies**
+- Problem Solving & Algorithms
+- Data Structures
+- Functional & Object-Oriented Programming
+- Design Patterns & Architecture
+- **SOLID** Principles | **DDD** | **Microservices**
 
-  - HTML + CSS
-  - Sass
-  - Javascript
-  - Typescript
-  - React.js
-  - Patterns
-  - React Native
-  - Next.js
-  - Tailwind, Material UI
+### 🎨 **Frontend Expertise**
+- JavaScript / TypeScript
+- React.js / Next.js / React Native
+- Tailwind CSS / Material UI / Sass
+- Component-driven architecture and performance optimization
 
-- **Backend**
+### 🔧 **Backend Engineering**
+- Node.js / PHP / Java / Python
+- RESTful API & Event-Driven Architecture
+- Messaging with RabbitMQ
+- Secure, maintainable, and scalable codebases
 
-  - PHP
-  - Node.js
-  - Java
-  - Python
-  - API Design and Best Practices
-  - RabbitMQ
+### 🚀 **Backend Frameworks**
+- NestJS / Express.js / Laravel / Spring Boot / AdonisJS
 
-- **Backend Frameworks**
+### 🗃️ **Databases & Persistence**
+- PostgreSQL / MySQL / MongoDB / Redis
+- ORM/ODM: TypeORM / Sequelize / JPA / Spring Data
 
-  - Spring Framework
-  - Nest.js
-  - Laravel
-  - Express.js
-  - Adonis.js
+---
 
-- **Database & Tools**
-  - Sql
-  - MySql
-  - Mongodb
-  - PostgreSQL
-  - Redis
-  - Java JPA
-  - Spring Data JPA
-  - TypeORM
-  - Sequelize
+## 🌍 I Love to Build
+
+I enjoy working on meaningful projects — from SaaS platforms to internal tools — focusing on:
+- 🔒 Authentication & Authorization
+- 📊 Admin dashboards & analytics
+- 🛒 E-commerce backends
+- 📱 Cross-platform mobile apps
+
+> I’m also exploring AI-powered apps and developer tooling!
+
+---
+
+## 🛠️ Tech Stack
+`TypeScript`, `Node.js`, `NestJS`, `React`, `Next.js`, `PostgreSQL`, `Redis`, `RabbitMQ`, `Docker`, `TailwindCSS`, `MongoDB`, `GitLab CI/CD`
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/jose-aburto-461b25269/)
+- 📬 Email: `pino0071@gmail.com`
+- 🚀 Open to freelance, remote opportunities, and collaborations
+
+---
+
+⭐️ _Thanks for visiting my profile! Feel free to explore my repositories or reach out if you'd like to work together._
+
